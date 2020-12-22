@@ -215,9 +215,9 @@ header {
 ----------------------*/
 .gradient-fill:before {
   color: #FF880C;
-  background: -moz-linear-gradient(top, #a55400 0%, #FF880C 100%);
-  background: -webkit-linear-gradient(top, #a55400 0%, #FF880C 100%);
-  background: linear-gradient(to bottom, #a55400 0%, #FF880C 100%);
+  background: -moz-linear-gradient(top, #f27b00 0%, #FF880C 100%);
+  background: -webkit-linear-gradient(top, #f27b00 0%, #FF880C 100%);
+  background: linear-gradient(to bottom, #f27b00 0%, #FF880C 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent; }
@@ -239,9 +239,9 @@ header {
   position: absolute;
   width: 3px;
   color: #FF880C;
-  background: -moz-linear-gradient(top, #a55400 0%, #FF880C 100%);
-  background: -webkit-linear-gradient(top, #a55400 0%, #FF880C 100%);
-  background: linear-gradient(to bottom, #a55400 0%, #FF880C 100%);
+  background: -moz-linear-gradient(top, #f27b00 0%, #FF880C 100%);
+  background: -webkit-linear-gradient(top, #f27b00 0%, #FF880C 100%);
+  background: linear-gradient(to bottom, #f27b00 0%, #FF880C 100%);
   top: 0;
   bottom: 0;
   left: 0; }
