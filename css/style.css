@@ -30,11 +30,11 @@ body {
   position: relative; }
 
 a {
-  color: #4d4d4d; }
+  color: #ffc268; }
 
 a:hover,
 a:focus {
-  color: #000000; }
+  color: #ce7b00; }
 
 h1 {
   font-size: 60px;
@@ -45,31 +45,31 @@ h1 {
 h2 {
   font-size: 45px;
   font-weight: 300;
-  color: #110B0E;
+  color: #e88a00;
   letter-spacing: -1px;
   margin-bottom: 1rem; }
 
 h3 {
-  color: #110B0E;
+  color: #e88a00;
   font-size: 33px;
   font-weight: 500; }
 
 h4 {
   font-size: 20px;
   font-weight: 500;
-  color: #110B0E; }
+  color: #e88a00; }
 
 h5 {
   font-size: 28px;
   font-weight: 300;
-  color: #110B0E;
+  color: #e88a00;
   margin-bottom: 0.7rem; }
 
 p {
   color: #959094; }
 
 p.lead {
-  color: #4d4d4d;
+  color: #ffc268;
   margin-bottom: 2rem; }
 
 .text-primary {
@@ -86,11 +86,11 @@ p.lead {
   transition: all 0.3s ease; }
 
 .btn-outline-light:hover {
-  color: #110B0E; }
+  color: #e88a00; }
 
 .btn-primary {
   border-radius: 3px;
-  background-color: #000000;
+  background-color: #ce7b00;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.2);
   font-weight: 500;
   padding: 0.6rem 2rem;
@@ -102,7 +102,7 @@ p.lead {
 .btn-primary:not([disabled]):not(.disabled).active,
 .btn-primary:not([disabled]):not(.disabled):active,
 .show > .btn-primary.dropdown-toggle {
-  background-color: black;
+  background-color: #b56c00;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.3);
   color: #FFF; }
 
@@ -112,7 +112,7 @@ p.lead {
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.26);
   font-size: 14px;
   font-weight: 500;
-  color: #110B0E;
+  color: #e88a00;
   margin: 0.5rem;
   padding: 0.7rem 1.6rem;
   line-height: 1.8; }
@@ -149,7 +149,7 @@ p.lead {
 
 .nav-menu.is-scrolling,
 .nav-menu.menu-is-open {
-  background-color: rgba(17, 17, 17, 0.94); }
+  background-color: rgba(232, 138, 0, 0.94); }
 
 .nav-menu.is-scrolling {
   padding: 0; }
@@ -185,10 +185,10 @@ header {
   color: #FFF; }
 
 .bg-gradient {
-  background-image: -moz-linear-gradient(135deg, #000000 0%, rgba(198, 0, 56, 0.8) 100%);
-  background-image: -webkit-linear-gradient(135deg, #000000 0%, rgba(198, 0, 56, 0.8) 100%);
-  background-image: -ms-linear-gradient(135deg, #000000 0%, rgba(198, 0, 56, 0.8) 100%);
-  background-image: linear-gradient(135deg, #000000 0%, rgba(198, 0, 56, 0.8) 100%); }
+  background-image: -moz-linear-gradient(135deg, #FF6234CC 0%, #FF9902CC 100%);
+  background-image: -webkit-linear-gradient(135deg, #FF6234CC 0%, #FF9902CC 100%);
+  background-image: -ms-linear-gradient(135deg, #FF6234CC 0%, #FF9902CC 100%);
+  background-image: linear-gradient(135deg, #FF6234CC 0%, #FF9902CC 100%); }
 
 .tagline {
   font-size: 23px;
@@ -214,10 +214,10 @@ header {
 /* FEATURES
 ----------------------*/
 .gradient-fill:before {
-  color: #ce0049;
-  background: -moz-linear-gradient(top, #9f0007 0%, #ce0049 100%);
-  background: -webkit-linear-gradient(top, #9f0007 0%, #ce0049 100%);
-  background: linear-gradient(to bottom, #9f0007 0%, #ce0049 100%);
+  color: #9b5d00;
+  background: -moz-linear-gradient(top, #cd2e00 0%, #9b5d00 100%);
+  background: -webkit-linear-gradient(top, #cd2e00 0%, #9b5d00 100%);
+  background: linear-gradient(to bottom, #cd2e00 0%, #9b5d00 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent; }
@@ -238,10 +238,10 @@ header {
   content: "";
   position: absolute;
   width: 3px;
-  color: #ce0049;
-  background: -moz-linear-gradient(top, #9f0007 0%, #ce0049 100%);
-  background: -webkit-linear-gradient(top, #9f0007 0%, #ce0049 100%);
-  background: linear-gradient(to bottom, #9f0007 0%, #ce0049 100%);
+  color: #9b5d00;
+  background: -moz-linear-gradient(top, #cd2e00 0%, #9b5d00 100%);
+  background: -webkit-linear-gradient(top, #cd2e00 0%, #9b5d00 100%);
+  background: linear-gradient(to bottom, #cd2e00 0%, #9b5d00 100%);
   top: 0;
   bottom: 0;
   left: 0; }
@@ -271,7 +271,7 @@ header {
   border-radius: 50%;
   margin-bottom: 1.5rem;
   background-color: #FFF;
-  color: #000000;
+  color: #ce7b00;
   font-size: 48px;
   text-align: center;
   line-height: 80px;
@@ -285,7 +285,7 @@ header {
     font-size: 28px;
     line-height: 50px; } }
 .ui-steps li:hover .circle-icon {
-  background: #000000;
+  background: #ce7b00;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.09);
   color: #FFF; }
 
@@ -336,7 +336,7 @@ header {
   background: #FFF;
   border-top-width: 3px;
   border-color: #ce75b4 #faf6fb #FFF;
-  color: #110B0E; }
+  color: #e88a00; }
 
 /*  TESTIMONIALS
 ----------------------*/
@@ -414,7 +414,7 @@ header {
   border-top-width: 3px;
   border-color: #ce75b4 #faf6fb #FFF;
   box-shadow: 0px 12px 59px 0px rgba(36, 7, 31, 0.11);
-  color: #110B0E; }
+  color: #e88a00; }
 
 .card.pricing .card-head {
   text-align: center;
@@ -424,7 +424,7 @@ header {
   display: block;
   font-size: 45px;
   font-weight: 300;
-  color: #110B0E; }
+  color: #e88a00; }
 
 .card.pricing .card-head .price sub {
   bottom: 0;
@@ -490,7 +490,7 @@ header {
 
 .social-icons a:hover {
   text-decoration: none;
-  color: #4d4d4d; }
+  color: #ffc268; }
 
 @media (max-width: 991px) {
   .social-icons {
@@ -500,7 +500,7 @@ header {
 h4.howtolist {
   font-size: 28px;
   font-weight: 400;
-  color: black;
+  color: #b56c00;
   margin-bottom: 0.7rem; }
 
 .howtodescription {
