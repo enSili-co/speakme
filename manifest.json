@@ -39,7 +39,7 @@
     }
   ],
   "short_name": "SpeakMe",
-  "description": "Instantly kill all your open Mac apps with a single click from your status menu",
+  "description": "Instantly convert any text to audio with a single click from your Mac",
   "start_url": "/",
   "display": "standalone"
 }
