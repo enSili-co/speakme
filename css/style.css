@@ -30,11 +30,11 @@ body {
   position: relative; }
 
 a {
-  color: #ff9902; }
+  color: #ffae35; }
 
 a:hover,
 a:focus {
-  color: #ce7b00; }
+  color: #FF9902; }
 
 h1 {
   font-size: 60px;
@@ -69,7 +69,7 @@ p {
   color: #959094; }
 
 p.lead {
-  color: #ff9902;
+  color: #ffae35;
   margin-bottom: 2rem; }
 
 .text-primary {
@@ -90,7 +90,7 @@ p.lead {
 
 .btn-primary {
   border-radius: 3px;
-  background-color: #ce7b00;
+  background-color: #FF9902;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.2);
   font-weight: 500;
   padding: 0.6rem 2rem;
@@ -102,7 +102,7 @@ p.lead {
 .btn-primary:not([disabled]):not(.disabled).active,
 .btn-primary:not([disabled]):not(.disabled):active,
 .show > .btn-primary.dropdown-toggle {
-  background-color: #b56c00;
+  background-color: #e88a00;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.3);
   color: #FFF; }
 
@@ -271,7 +271,7 @@ header {
   border-radius: 50%;
   margin-bottom: 1.5rem;
   background-color: #FFF;
-  color: #ce7b00;
+  color: #FF9902;
   font-size: 48px;
   text-align: center;
   line-height: 80px;
@@ -285,7 +285,7 @@ header {
     font-size: 28px;
     line-height: 50px; } }
 .ui-steps li:hover .circle-icon {
-  background: #ce7b00;
+  background: #FF9902;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.09);
   color: #FFF; }
 
@@ -490,7 +490,7 @@ header {
 
 .social-icons a:hover {
   text-decoration: none;
-  color: #ff9902; }
+  color: #ffae35; }
 
 @media (max-width: 991px) {
   .social-icons {
