@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>SpeakMe for Mac</h1>
 <p align=center>
-  Tired of getting stuck with open apps<br>and not knowing how to get rid of them?<br><br>Kill them all at once. Just like that.
+  Want to convert text to audio, in any language,<br>and share it as a file? Look no further.<br><br>This is the only tool you'll ever need.
 </p>
 
 
