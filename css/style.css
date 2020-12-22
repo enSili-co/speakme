@@ -30,7 +30,7 @@ body {
   position: relative; }
 
 a {
-  color: #ffc268; }
+  color: #ff9902; }
 
 a:hover,
 a:focus {
@@ -69,7 +69,7 @@ p {
   color: #959094; }
 
 p.lead {
-  color: #ffc268;
+  color: #ff9902;
   margin-bottom: 2rem; }
 
 .text-primary {
@@ -185,10 +185,10 @@ header {
   color: #FFF; }
 
 .bg-gradient {
-  background-image: -moz-linear-gradient(135deg, #340c00 0%, #FF9902CC 100%);
-  background-image: -webkit-linear-gradient(135deg, #340c00 0%, #FF9902CC 100%);
-  background-image: -ms-linear-gradient(135deg, #340c00 0%, #FF9902CC 100%);
-  background-image: linear-gradient(135deg, #340c00 0%, #FF9902CC 100%); }
+  background-image: -moz-linear-gradient(135deg, #000 0%, #FF880C 100%);
+  background-image: -webkit-linear-gradient(135deg, #000 0%, #FF880C 100%);
+  background-image: -ms-linear-gradient(135deg, #000 0%, #FF880C 100%);
+  background-image: linear-gradient(135deg, #000 0%, #FF880C 100%); }
 
 .tagline {
   font-size: 23px;
@@ -214,10 +214,10 @@ header {
 /* FEATURES
 ----------------------*/
 .gradient-fill:before {
-  color: #9b5d00;
-  background: -moz-linear-gradient(top, #cd2e00 0%, #9b5d00 100%);
-  background: -webkit-linear-gradient(top, #cd2e00 0%, #9b5d00 100%);
-  background: linear-gradient(to bottom, #cd2e00 0%, #9b5d00 100%);
+  color: #FF880C;
+  background: -moz-linear-gradient(top, #a55400 0%, #FF880C 100%);
+  background: -webkit-linear-gradient(top, #a55400 0%, #FF880C 100%);
+  background: linear-gradient(to bottom, #a55400 0%, #FF880C 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent; }
@@ -238,10 +238,10 @@ header {
   content: "";
   position: absolute;
   width: 3px;
-  color: #9b5d00;
-  background: -moz-linear-gradient(top, #cd2e00 0%, #9b5d00 100%);
-  background: -webkit-linear-gradient(top, #cd2e00 0%, #9b5d00 100%);
-  background: linear-gradient(to bottom, #cd2e00 0%, #9b5d00 100%);
+  color: #FF880C;
+  background: -moz-linear-gradient(top, #a55400 0%, #FF880C 100%);
+  background: -webkit-linear-gradient(top, #a55400 0%, #FF880C 100%);
+  background: linear-gradient(to bottom, #a55400 0%, #FF880C 100%);
   top: 0;
   bottom: 0;
   left: 0; }
@@ -490,7 +490,7 @@ header {
 
 .social-icons a:hover {
   text-decoration: none;
-  color: #ffc268; }
+  color: #ff9902; }
 
 @media (max-width: 991px) {
   .social-icons {
