@@ -11,11 +11,11 @@
 
 # Download for free (3-day trial)
 
-▶︎ 
+▶︎ https://ensili.co/download/speakme/speakme-3.1.zip
 
 # Official Website
 
-▶︎ https://speakme.app
+▶︎ https://ensili.co/app/speakme
 
 # Issues
 
