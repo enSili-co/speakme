@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://ensili.co/download/speakme/speakme-3.4.2.zip
+▶︎ https://cdn.ensili.co/app/speakme/download/speakme-3.4.2.zip
 
 # Official Website
 
